@@ -1,4 +1,4 @@
-module github.com/eeianux/compress
+module github.com/doublepi123/compress
 
 go 1.19
 
